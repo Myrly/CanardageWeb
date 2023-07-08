@@ -1,6 +1,5 @@
-## Vadoriser
-A web adaptation of the board game "Canardage" based on the Star Wars universe.
-
+## CanardageWeb
+A web adaptation of the board game "Canardage". Code learn project.
 ## Technology
 Frontend : SolidJS
 
